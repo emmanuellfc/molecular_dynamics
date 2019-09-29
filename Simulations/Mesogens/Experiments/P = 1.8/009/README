@@ -1,0 +1,11 @@
+Initializing Simulation
+
+kT = 5.0, tau = 1.0, tauP = 1.0, P = 0 -> 0.5 (2.5e5) 
+
+** run complete ** 
+
+Simulation Ramp
+
+kT = 5.0, tau = 1.0, tauP = 1.0, P = 0.5 -> 1.0 (3.0e5) 
+
+Error computing cell list
